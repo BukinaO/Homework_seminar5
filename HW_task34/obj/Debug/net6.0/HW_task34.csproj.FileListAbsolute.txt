@@ -1,0 +1,15 @@
+/home/hola/3_Языки программирования/Seminar 5/HW_task34/bin/Debug/net6.0/HW_task34
+/home/hola/3_Языки программирования/Seminar 5/HW_task34/bin/Debug/net6.0/HW_task34.deps.json
+/home/hola/3_Языки программирования/Seminar 5/HW_task34/bin/Debug/net6.0/HW_task34.runtimeconfig.json
+/home/hola/3_Языки программирования/Seminar 5/HW_task34/bin/Debug/net6.0/HW_task34.dll
+/home/hola/3_Языки программирования/Seminar 5/HW_task34/bin/Debug/net6.0/HW_task34.pdb
+/home/hola/3_Языки программирования/Seminar 5/HW_task34/obj/Debug/net6.0/HW_task34.csproj.AssemblyReference.cache
+/home/hola/3_Языки программирования/Seminar 5/HW_task34/obj/Debug/net6.0/HW_task34.GeneratedMSBuildEditorConfig.editorconfig
+/home/hola/3_Языки программирования/Seminar 5/HW_task34/obj/Debug/net6.0/HW_task34.AssemblyInfoInputs.cache
+/home/hola/3_Языки программирования/Seminar 5/HW_task34/obj/Debug/net6.0/HW_task34.AssemblyInfo.cs
+/home/hola/3_Языки программирования/Seminar 5/HW_task34/obj/Debug/net6.0/HW_task34.csproj.CoreCompileInputs.cache
+/home/hola/3_Языки программирования/Seminar 5/HW_task34/obj/Debug/net6.0/HW_task34.dll
+/home/hola/3_Языки программирования/Seminar 5/HW_task34/obj/Debug/net6.0/refint/HW_task34.dll
+/home/hola/3_Языки программирования/Seminar 5/HW_task34/obj/Debug/net6.0/HW_task34.pdb
+/home/hola/3_Языки программирования/Seminar 5/HW_task34/obj/Debug/net6.0/HW_task34.genruntimeconfig.cache
+/home/hola/3_Языки программирования/Seminar 5/HW_task34/obj/Debug/net6.0/ref/HW_task34.dll
